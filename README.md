@@ -14,6 +14,7 @@ berikut ini adalah tampilan awal yang terlihat saat membuka aplikasi, terdapat p
 2. screen Kedua
 
 setelah user menekan salah satu menu di screen pertama, maka akan muncul screen kedua yang berisi informasi nama produk, gambar, harga, rating, deskripsi dan tombol menambahkan jumlah yang akan di beli, setelah user menentukan jumlah yang akan di beli maka harga produk akan tertera di keterangan "total".
+
 ![screen2](https://user-images.githubusercontent.com/55431982/192888946-e042779f-d7be-49d8-8caf-7c8cb0c741c8.jpg)
 
 seperti yang terlihat pada gambar dibawah, jika user menekan tombol kurang pada saat angka sudah "0" maka akan muncul Flutter Toast yang memperingatkan bahwa jumlah yang tampil minimal adalah 0.
